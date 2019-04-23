@@ -6,7 +6,7 @@
 
 #header
 {
-	background: #ccc;
+	background: blue;
 	padding: 20px;
 }
 
@@ -88,7 +88,7 @@
 #footer
 {
 	clear: both;
-	background: #aaa;
+	background: blue;
 	text-align: right;
 	padding: 20px;
 	height: 1%;
