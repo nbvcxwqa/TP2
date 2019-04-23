@@ -38,7 +38,7 @@
 	padding: 5px 10px;
 	color: red;
 	text-decoration: none;
-	border-right: 1px solid #fff;
+	border-right: 5px solid #fff;
 }
 
 #navigation li a:hover { background: #383; }
@@ -49,7 +49,7 @@
 	padding: 20px;
 	margin: 20px;
 	-webkit-border-radius: 18px;
-	border-radius: 18px;
+	border-radius: 50px;
 	-webkit-box-shadow: 0px 0px 6px #000000;
 	box-shadow: 0px 0px 6px #000000;
 	background-image: -webkit-gradient(linear, left top, right top, from(#d6e1ff), to(#dbffe7));
@@ -62,7 +62,7 @@
 
 #edito h2
 {
-	color: #000;
+	color: #aed4;
 	font-size: 160%;
 	margin: 0 0 .5em;
 }
@@ -88,7 +88,7 @@
 #footer
 {
 	clear: both;
-	background: #ccc;
+	background: #aaa;
 	text-align: right;
 	padding: 20px;
 	height: 1%;
